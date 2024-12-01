@@ -1,4 +1,4 @@
-package cs112.ud2;
+package cs112.ud2.controllers;
 
 import javafx.fxml.FXML;
 import javafx.scene.control.Label;
